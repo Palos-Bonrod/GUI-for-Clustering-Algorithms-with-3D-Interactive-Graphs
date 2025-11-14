@@ -29,19 +29,19 @@ This prototype solves these problems by providing a **user-friendly interface** 
 - Load, add, edit, or delete student dataset entries from CSV files
 
 #### **Create**
-<img alt="CRUD Create Demo" src="demo/crud_create.gif" />
+<img alt="CRUD Create Demo" src="demo/crud_create.gif" style="max-width:100%;height:auto;" />
 
 #### **Search by ID**
-<img alt="CRUD Search Demo" src="demo/crud_search.gif" />
+<img alt="CRUD Search Demo" src="demo/crud_search.gif" style="max-width:100%;height:auto;" />
 
 #### **Search by Filter**
-<img alt="CRUD Filter Demo" src="demo/crud_filter.gif" />
+<img alt="CRUD Filter Demo" src="demo/crud_filter.gif" style="max-width:100%;height:auto;" />
 
 #### **Update**
-<img alt="CRUD Update Demo" src="demo/crud_update.gif" />
+<img alt="CRUD Update Demo" src="demo/crud_update.gif" style="max-width:100%;height:auto;" />
 
 #### **Delete**
-<img alt="CRUD Delete Demo" src="demo/crud_delete.gif" />
+<img alt="CRUD Delete Demo" src="demo/crud_delete.gif" style="max-width:100%;height:auto;" />
 
 ---
 
@@ -50,14 +50,14 @@ This prototype solves these problems by providing a **user-friendly interface** 
 - Higher cutoff → fewer clusters  
 - Lower cutoff → more fine-grained clusters
 
-<img alt="Distance Cutoff Demo" src="demo/distance_cutoff.gif" />
+<img alt="Distance Cutoff Demo" src="demo/distance_cutoff.gif" style="max-width:100%;height:auto;" />
 
 ---
 
 ### 3. Adjustable Data Point Size
 - Change the size of data points for better visibility across devices
 
-<img alt="Data Point Size Demo" src="demo/point_size.gif" />
+<img alt="Data Point Size Demo" src="demo/point_size.gif" style="max-width:100%;height:auto;" />
 
 ---
 
@@ -65,7 +65,7 @@ This prototype solves these problems by providing a **user-friendly interface** 
 - Rotate, zoom, and pan the 3D cluster plot  
 - Hover over points to view additional information  
 
-<img alt="3D Visualization Demo" src="demo/3d_visualization.gif" />
+<img alt="3D Visualization Demo" src="demo/3d_visualization.gif" style="max-width:100%;height:auto;" />
 
 #### **Early Version**
 - click on the link below if you want to interact with one of the early versions of the graph
