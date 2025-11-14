@@ -29,44 +29,35 @@ This prototype solves these problems by providing a **user-friendly interface** 
 - Load, add, edit, or delete student dataset entries from CSV files
 
 #### **Create**
-<img width="1080" height="608" alt="CRUD Create Demo" src="demo/crud_create.gif" />
+<img alt="CRUD Create Demo" src="demo/crud_create.gif" />
 
 #### **Search by ID**
-<img width="1080" height="608" alt="CRUD Search Demo" src="demo/crud_search.gif" />
+<img alt="CRUD Search Demo" src="demo/crud_search.gif" />
 
 #### **Search by Filter**
-<img width="1080" height="608" alt="CRUD Filter Demo" src="demo/crud_filter.gif" />
+<img alt="CRUD Filter Demo" src="demo/crud_filter.gif" />
 
 #### **Update**
-<img width="1080" height="608" alt="CRUD Update Demo" src="demo/crud_update.gif" />
+<img alt="CRUD Update Demo" src="demo/crud_update.gif" />
 
 #### **Delete**
-<img width="1080" height="608" alt="CRUD Delete Demo" src="demo/crud_delete.gif" />
+<img alt="CRUD Delete Demo" src="demo/crud_delete.gif" />
 
 ---
-
-
-<!-- ### 2. 3D Feature Selection
-- Select X, Y, and Z axes from available dataset features
-- Explore multi-dimensional clustering interactively
-
-<img width="1080" height="608" alt="Feature Selection Demo" src="demo/feature_selection.gif" />
-
---- -->
 
 ### 2. Adjustable Distance Cutoff
 - Dynamically control the hierarchical clustering distance cutoff  
 - Higher cutoff → fewer clusters  
 - Lower cutoff → more fine-grained clusters
 
-<img width="1080" height="608" alt="Distance Cutoff Demo" src="demo/distance_cutoff.gif" />
+<img alt="Distance Cutoff Demo" src="demo/distance_cutoff.gif" />
 
 ---
 
 ### 3. Adjustable Data Point Size
 - Change the size of data points for better visibility across devices
 
-<img width="1080" height="608" alt="Data Point Size Demo" src="demo/point_size.gif" />
+<img alt="Data Point Size Demo" src="demo/point_size.gif" />
 
 ---
 
@@ -74,12 +65,11 @@ This prototype solves these problems by providing a **user-friendly interface** 
 - Rotate, zoom, and pan the 3D cluster plot  
 - Hover over points to view additional information  
 
-<img width="1080" height="608" alt="3D Visualization Demo" src="demo/3d_visualization.gif" />
+<img alt="3D Visualization Demo" src="demo/3d_visualization.gif" />
 
 #### **Early Version**
 - click on the link below if you want to interact with one of the early versions of the graph
    - ###### [Open 3D Graph (HTML)](demo/early_version_of_graph.html)
-
 
 ---
 
