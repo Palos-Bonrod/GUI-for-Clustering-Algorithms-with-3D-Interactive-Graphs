@@ -28,9 +28,23 @@ This prototype solves these problems by providing a **user-friendly interface** 
 ### 1. CRUD Operations
 - Load, add, edit, or delete student dataset entries from CSV files
 
-<img width="1080" height="608" alt="CRUD Operations Demo" src="demo/crud_create.gif" />
+#### **Create**
+<img width="1080" height="608" alt="CRUD Create Demo" src="demo/crud_create.gif" />
+
+#### **Search by ID**
+<img width="1080" height="608" alt="CRUD Search Demo" src="demo/crud_search.gif" />
+
+#### **Search by Filter**
+<img width="1080" height="608" alt="CRUD Filter Demo" src="demo/crud_filter.gif" />
+
+#### **Update**
+<img width="1080" height="608" alt="CRUD Update Demo" src="demo/crud_update.gif" />
+
+#### **Delete**
+<img width="1080" height="608" alt="CRUD Delete Demo" src="demo/crud_delete.gif" />
 
 ---
+
 
 <!-- ### 2. 3D Feature Selection
 - Select X, Y, and Z axes from available dataset features
@@ -62,10 +76,14 @@ This prototype solves these problems by providing a **user-friendly interface** 
 
 <img width="1080" height="608" alt="3D Visualization Demo" src="demo/3d_visualization.gif" />
 
+#### **Early Version**
+- click on the link below if you want to interact with one of the early versions of the graph
+   - ###### [Open 3D Graph (HTML)](demo/early_version_of_graph.html)
+
+
 ---
 
-## Conceptual Framework
-This prototype is grounded in the following theoretical frameworks:
+## Frameworks
 
 1. **Human-Computer Interaction (HCI)**  
    - Direct manipulation interface for parameter sliders and 3D interaction  
@@ -81,29 +99,6 @@ This prototype is grounded in the following theoretical frameworks:
 
 4. **Prototyping Fidelity**  
    - High-fidelity interactive prototype demonstrating core functionality
-
----
-
-## System Architecture
-**Frontend (GUI)**  
-- Built with [Your GUI library, e.g., Tkinter, PyQt, CustomTkinter]  
-- Handles user inputs and parameter adjustments
-
-**Backend**  
-- Data loading and preprocessing (CSV files)  
-- Hierarchical clustering engine (SciPy linkage + fcluster)  
-- 3D plotting (Plotly)
-
-**Data Flow**
-
-<img width="1080" height="608" alt="System Architecture Diagram" src="demo/system_architecture.gif" />
-
----
-
-## Demo Video
-For a full walkthrough of the prototype:
-
-[▶️ Watch Full Demo](https://youtu.be/your_video_id)
 
 ---
 
@@ -124,9 +119,3 @@ For a full walkthrough of the prototype:
 - No dendrogram overlay yet  
 
 ---
-
-## References
-- Shneiderman, B. “Direct Manipulation Interfaces”  
-- Nielsen, J. “10 Usability Heuristics”  
-- Keim, D., et al. “Visual Analytics Process Model”  
-- SciPy documentation (hierarchical clustering)
