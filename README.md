@@ -1,4 +1,4 @@
-# 3D Hierarchical Clustering Visualizer Prototype
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/ec578266-4bd8-4e38-9c90-76fafbeb89e5" /># 3D Hierarchical Clustering Visualizer Prototype
 
 ## Overview
 This project is a GUI-based tool for visualizing hierarchical clustering in **three dimensions**. It allows users to explore student datasets (grades, study hours, extracurricular activity levels) without writing any code. Users can manipulate clustering parameters and generate interactive 3D scatter plots to better understand the hidden relationships within the data.
@@ -28,7 +28,8 @@ This prototype solves these problems by providing a **user-friendly interface** 
 ### 1. CRUD Operations
 - Load, add, edit, or delete student dataset entries from CSV files
 
-![CRUD Operations Demo](demo/crud_create.gif)
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/666f677a-52b7-411c-83b2-9320149a0237" />
+
 
 ---
 
