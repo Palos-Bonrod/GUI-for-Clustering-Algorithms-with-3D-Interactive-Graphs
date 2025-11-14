@@ -103,7 +103,8 @@ This prototype solves these problems by providing a **user-friendly interface** 
 ---
 
 ## Future Enhancements
-- Add dendrogram visualization  
+- Add dendrogram visualization
+- Add more parameter edits
 - Implement PCA for higher-dimensional datasets  
 - Add export options for graphs (PNG, CSV with cluster labels)  
 - Include additional clustering algorithms (K-Means, DBSCAN)  
