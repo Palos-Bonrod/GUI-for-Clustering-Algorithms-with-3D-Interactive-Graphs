@@ -28,19 +28,19 @@ This prototype solves these problems by providing a **user-friendly interface** 
 ### 1. CRUD Operations
 - Load, add, edit, or delete student dataset entries from CSV files
 
-![CRUD Operations Demo](demo/crud_demo.gif)
+![CRUD Operations Demo](demo/crud_create.gif)
 
 ---
 
-### 2. 3D Feature Selection
+<!-- ### 2. 3D Feature Selection
 - Select X, Y, and Z axes from available dataset features
 - Explore multi-dimensional clustering interactively
 
 ![Feature Selection Demo](demo/feature_selection.gif)
 
----
+--- -->
 
-### 3. Adjustable Distance Cutoff
+### 2. Adjustable Distance Cutoff
 - Dynamically control the hierarchical clustering distance cutoff
 - Higher cutoff → fewer clusters
 - Lower cutoff → more fine-grained clusters
@@ -49,14 +49,14 @@ This prototype solves these problems by providing a **user-friendly interface** 
 
 ---
 
-### 4. Adjustable Data Point Size
+### 3. Adjustable Data Point Size
 - Change the size of data points for better visibility across devices
 
 ![Data Point Size Demo](demo/point_size.gif)
 
 ---
 
-### 5. Interactive 3D Visualization
+### 4. Interactive 3D Visualization
 - Rotate, zoom, and pan the 3D cluster plot  
 - Hover over points to view additional information  
 
@@ -113,25 +113,14 @@ For a full walkthrough of the prototype:
 - Add export options for graphs (PNG, CSV with cluster labels)  
 - Include additional clustering algorithms (K-Means, DBSCAN)  
 - Develop a web-based version for wider accessibility
-
+- Downloadable 3D graph as an html file
 ---
 
 ## Limitations
-- Only supports three features (X, Y, Z)  
+- Only supports a specific set of dataset attributes  
 - CSV dataset format only  
 - Does not yet support extremely large datasets  
-- No dendrogram overlay yet  
-- Audio or motion effects not included
-
----
-
-## How to Use
-1. Clone the repository  
-2. Run the GUI application  
-3. Load your CSV dataset  
-4. Select features for X, Y, Z axes  
-5. Adjust distance cutoff and data point size  
-6. Explore clusters in 3D interactively
+- No dendrogram overlay yet 
 
 ---
 
