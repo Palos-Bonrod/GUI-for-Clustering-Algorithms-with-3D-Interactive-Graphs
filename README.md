@@ -95,3 +95,50 @@ This prototype is grounded in the following theoretical frameworks:
 - 3D plotting (Plotly)
 
 **Data Flow**
+
+![System Architecture Diagram](demo/system_architecture.gif)
+
+---
+
+## Demo Video
+For a full walkthrough of the prototype:
+
+[▶️ Watch Full Demo](https://youtu.be/your_video_id)
+
+---
+
+## Future Enhancements
+- Add dendrogram visualization  
+- Implement PCA for higher-dimensional datasets  
+- Add export options for graphs (PNG, CSV with cluster labels)  
+- Include additional clustering algorithms (K-Means, DBSCAN)  
+- Develop a web-based version for wider accessibility
+
+---
+
+## Limitations
+- Only supports three features (X, Y, Z)  
+- CSV dataset format only  
+- Does not yet support extremely large datasets  
+- No dendrogram overlay yet  
+- Audio or motion effects not included
+
+---
+
+## How to Use
+1. Clone the repository  
+2. Run the GUI application  
+3. Load your CSV dataset  
+4. Select features for X, Y, Z axes  
+5. Adjust distance cutoff and data point size  
+6. Explore clusters in 3D interactively
+
+---
+
+## References
+- Shneiderman, B. “Direct Manipulation Interfaces”  
+- Nielsen, J. “10 Usability Heuristics”  
+- Keim, D., et al. “Visual Analytics Process Model”  
+- SciPy documentation (hierarchical clustering)
+
+
